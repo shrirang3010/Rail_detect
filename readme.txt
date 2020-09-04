@@ -2,7 +2,7 @@ Segmentation of Rail-tracks using Keras(Deep Learning)
 
 -- Model Used: VGG_unet
 
--- Input: video:	/rail/InputVideo
+-- Input: video:	/rail/InputVideo #Sample from videos uploaded
 	  train:         /rail/frames
 	  annotation:	/rail/new_png_masks
 	  model:	vgg_unet_1.3	
