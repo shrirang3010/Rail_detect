@@ -8,7 +8,7 @@ Segmentation of Rail-tracks using Keras(Deep Learning)
 	  model:	vgg_unet_1.3	
    The original png_masks had to be compressed in size
 
--- Output: video:	/rail/videoout/OutputVideo
+-- Output: video:	/rail/videoout/OutputVideo : Check the video https://drive.google.com/file/d/1CAwCvMusPvtq6aNAQqopK29ILuRHcs66/view?usp=sharing
 
 VGG_unet -- Proposed by Oxford has lesser layers thus making it faster to train. VGG has been the standard pre-trained model in for a large number of applications.
 VGG being an innovative object-recognition model supporting up to 19 layers helped in building a network which recognised/segmented the rail tracks quiet accurately.
