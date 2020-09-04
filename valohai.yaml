@@ -1,0 +1,14 @@
+---
+
+- step:
+    name: mytest
+    image: python:3.6
+    command: python test.py
+    #inputs:
+    #  - name: example-input
+    #    default: https://example.com/
+    #parameters:
+    # - name: example
+    #   description: Example parameter
+    #   type: integer
+    #   default: 300
